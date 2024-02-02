@@ -1,0 +1,2 @@
+insert into sm_auth(name, email,username,password, dept_id)
+values('Garima','garimas@axismyindia.org','prj_06','Prj@911','sm_05');
